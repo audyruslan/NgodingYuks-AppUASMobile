@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NgodingYuks</string>
+    <string name="nama_bahasa">Nama Bahasa Pemrograman</string>
+    <string name="detail_bahasa">Detail Bahasa Pemrograman</string>
+    <string name="menuInflater"></string>
+    <string name="listview">ListView</string>
+    <string name="gridview">GridView</string>
+    <string name="cardview">CardView</string>
+    <string name="kontak">kontak</string>
+    <string name="share">Bagikan</string>
+    <string name="favorite">Favorit</string>
+    <string name="hello_home_fragment">Fragment Beranda</string>
+    <string name="hello_dash_fragment">Fragment Dashboard</string>
+    <string name="hello_account_fragment">Fragment Akun</string>
+    <string name="title_home">Beranda</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_account">Profil</string>
+    <string name="sign_out">Sign Out</string>
+</resources>
